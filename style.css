@@ -1,22 +1,26 @@
-
-p{
-    color: tomato;
-    font-size: 22px;
-    font-family: 'Times New Roman', Times, serif;
-    background-color: black;
-    text-align: center;
-    text-align: justify;
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
 h1{
     color: rgb(34, 28, 28);
-    height: 50px;
-    width: 400px;
+    /* height: 50px;
+    width: 400px; */
     background-color: rgb(170, 25, 238);
     justify-content: center;
     text-align: center;
     padding-top: 10px;
     border: 2px solid gray;
 
+
+}
+
+p{
+    color: rgb(20, 17, 16);
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(166, 160, 177);
+    text-align: center;
+    text-align: justify;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 300px;
+    width: 25%;
+    display: inline-block;
 }
